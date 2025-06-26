@@ -11,16 +11,12 @@ Bilgisayarınızda Python 3.x sürümünün yüklü olduğundan emin olun.
 2. Adım: Gerekli Kütüphaneleri Yükleyin
 Projeyi çalıştırmak için NumPy, Pillow ve Matplotlib kütüphaneleri gereklidir. Bu kütüphaneleri yüklemek için terminal veya komut istemcisini açıp aşağıdaki komutu çalıştırın:
 
-Bash
-
 pip install numpy pillow matplotlib
 3. Adım: Dosyaları Hazırlayın
 main.py betiği ile lena_gray.png resim dosyasının aynı klasörde olduğundan emin olun.
 
 4. Adım: Betiği Çalıştırın
 Terminalde dosyaların bulunduğu klasöre gidin ve aşağıdaki komutu çalıştırın:
-
-Bash
 
 python main.py
 Beklenen Çıktı
